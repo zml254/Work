@@ -4,4 +4,5 @@
     <string name="main_button_cancel_download">删除文件</string>
     <string name="main_button_pause_download">暂停下载</string>
     <string name="main_textview_download_progress">下载进度</string>
+    <string name="button">Button</string>
 </resources>
